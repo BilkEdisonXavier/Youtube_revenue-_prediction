@@ -1,6 +1,4 @@
 scikit-learn
 streamlit
-pickle
 googleapiclient.discovery
-re
 isodate
